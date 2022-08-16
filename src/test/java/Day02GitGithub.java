@@ -10,4 +10,7 @@ public class Day02GitGithub {
                    git push -u origin master
        not: yukaridaki iki komutu tek seferde kullandiktan sonra ikinci commit lerim icin sadece git push kullaniriz
      */
+    public static void main(String[] args) {
+        System.out.println("Github da ilk islemi yaptim");
+    }
 }
